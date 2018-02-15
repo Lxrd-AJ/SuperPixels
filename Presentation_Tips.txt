@@ -1,0 +1,3 @@
+- Try your technique against other existing techniques and say which you think is best
+- If possible do a real time demo
+- Give the units of all measurements e.g scale of all axes, pixel dimensions
