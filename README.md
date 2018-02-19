@@ -12,3 +12,7 @@
 ## Powerpoint TODOs
 - [ ] Sample undone powerpoint
 - [x] Sample Done powerpoint
+
+## TODOs
+- [ ] Finish up presentation (AJ)
+- [ ] Finish up demo/implementation (Philipp)
