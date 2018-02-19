@@ -7,3 +7,4 @@
 * Dilated Convolution for Semantic Image Segmentation - https://github.com/fyu/dilation
 * Dilated Residual Networks - https://github.com/fyu/drn
 * SLIC + SLICO C++ - https://ivrl.epfl.ch/research/superpixels
+* Python Version https://github.com/jayrambhia/superpixels-SLIC/blob/master/SLICcv.py
