@@ -8,3 +8,7 @@
 * Dilated Residual Networks - https://github.com/fyu/drn
 * SLIC + SLICO C++ - https://ivrl.epfl.ch/research/superpixels
 * Python Version https://github.com/jayrambhia/superpixels-SLIC/blob/master/SLICcv.py
+
+## Powerpoint TODOs
+- [ ] Sample undone powerpoint
+- [x] Sample Done powerpoint
