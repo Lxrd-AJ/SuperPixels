@@ -1,4 +1,5 @@
 # SuperPixels
+* PhD Thesis http://davidstutz.de/projects/superpixel-benchmark-2014/
 * BEamer documentation (http://ctan.math.washington.edu/tex-archive/macros/latex/contrib/beamer/doc/beameruserguide.pdf)
 * Google Docs for notes - https://docs.google.com/document/d/13cKd3IGMOSm_iZ4vayGkd8zNY6jk3Nkn7tie5R_MDIw/edit?usp=sharing 
 ## Implementation Resources
