@@ -16,4 +16,4 @@
 
 ## TODOs
 - [ ] Finish up presentation (AJ)
-- [ ] Finish up demo/implementation (Philipp)
+- [x] Finish up demo/implementation (Philipp)
